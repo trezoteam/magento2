@@ -1,7 +1,7 @@
 {
-  "name": "konduto/magento2",
+  "name": "konduto/antifraud",
   "description": "Konduto Anti Fraud Module",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "type": "magento2-module",
   "license": "proprietary",
   "authors": [
@@ -16,7 +16,7 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "php": "~7.0.0||~7.1.0||~7.2.0",
+    "php": "~5.5.0|~5.6.0|~7.0.0||~7.1.0||~7.2.0",
     "konduto/sdk": "v2.0.1"
   },
   "autoload": {
